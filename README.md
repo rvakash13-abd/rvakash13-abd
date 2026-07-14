@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Akash R V</h1>
 
 <h3 align="center">
-Pre-Final Year ECE Student | Android Developer | Web Developer | AI & IoT Enthusiast
+Pre-Final Year Electronics & Communication Engineering Student | Android Developer | Web Developer | AI & IoT Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Android+Developer;Web+Developer;AI+%26+IoT+Enthusiast;Embedded+Systems+Learner;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Android+Developer;Web+Developer;AI+%26+IoT+Enthusiast;Embedded+Systems+Learner;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Pre-Final Year **B.E. Electronics & Communication Engineering** student at **R.M.K. College of Engineering and Technology**.
-- 💼 Product Development Intern at **Webnique Digital Solutions**.
-- 📱 Passionate about **Android Development** and **Web Development**.
-- 🤖 Interested in **Artificial Intelligence, IoT, and Embedded Systems**.
-- 💡 I enjoy building real-world projects that bridge hardware and software.
-- 🌱 Currently learning **Machine Learning, LLMs, Embedded Systems, and Cloud Technologies**.
+- 🎓 Pre-Final Year **B.E. Electronics & Communication Engineering** student at **R.M.K College of Engineering and Technology**
+- 💼 Product Development Intern at **Webnique Digital Solutions**
+- 📱 Passionate about **Android Development** and **Web Development**
+- 🤖 Interested in **Artificial Intelligence, Embedded Systems, and IoT**
+- 🌱 Currently learning **Machine Learning, LLMs, Cloud Computing, and Advanced Android Development**
+- 🚀 I enjoy building real-world products that combine software with embedded systems.
 - 🤝 Open to internships, collaborations, and open-source contributions.
 
 ---
@@ -26,11 +26,11 @@ Pre-Final Year ECE Student | Android Developer | Web Developer | AI & IoT Enthus
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="YOUR_LINKEDIN_URL" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://akash-portfolio-xi-flame.vercel.app">
+<a href="https://akash-portfolio-xi-flame.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
@@ -45,12 +45,27 @@ Pre-Final Year ECE Student | Android Developer | Web Developer | AI & IoT Enthus
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nextjs,nodejs,mysql,mongodb,firebase,git,github,vscode,figma,postman"/>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nextjs,nodejs,mongodb,mysql,firebase,git,github,vscode,figma,postman"/>
+
 </p>
 
-### Embedded & IoT
+### 📱 Android
 
-`Arduino` • `ESP32` • `Bluetooth` • `Android Studio` • `Ultrasonic Sensor` • `GSM Module`
+- Kotlin
+- Android Studio
+- Jetpack Compose
+- MVVM
+
+### 🔌 Embedded & IoT
+
+- Arduino
+- ESP32
+- HC-05 Bluetooth
+- Ultrasonic Sensor
+- GSM Module
+- Servo Motors
+- Embedded C
 
 ---
 
@@ -58,55 +73,66 @@ Pre-Final Year ECE Student | Android Developer | Web Developer | AI & IoT Enthus
 
 ## 🦽 Multilingual Voice-Controlled Smart Wheelchair
 
-A smart wheelchair controlled using multilingual voice commands with obstacle detection and Android application support.
+An intelligent wheelchair supporting multilingual voice commands with obstacle detection and Android application integration.
 
-**Tech Stack:** `Arduino` `Android` `Bluetooth` `IoT`
+**Tech Stack**
+
+`Arduino` `Android` `Bluetooth` `IoT`
 
 ---
 
 ## 🤖 Smart Sentinel Robot
 
-An AI-integrated autonomous security robot with obstacle avoidance, gas detection, temperature monitoring, and voice interaction.
+AI-powered autonomous security robot capable of obstacle avoidance, gas detection, temperature monitoring, and voice interaction.
 
-**Tech Stack:** `Arduino` `Embedded Systems` `IoT`
+**Tech Stack**
+
+`Arduino` `Embedded Systems` `IoT`
 
 ---
 
 ## 🧠 JARVIS AI Desktop Assistant
 
-A desktop AI assistant capable of speech recognition, automation, and intelligent conversations using LLMs.
+Desktop AI assistant with speech recognition, intelligent conversations, and automation features powered by LLMs.
 
-**Tech Stack:** `Python` `LLM` `Tkinter`
+**Tech Stack**
+
+`Python` `LLMs` `Tkinter`
 
 ---
 
 ## 🌱 Smart Plant Monitoring System
 
-IoT-based smart agriculture solution for monitoring environmental conditions.
+IoT-enabled plant monitoring system that tracks environmental conditions in real time.
 
-**Tech Stack:** `ESP32` `IoT`
+**Tech Stack**
+
+`ESP32` `IoT`
 
 ---
 
 ## 🌐 Personal Portfolio
 
-🔗 **Live Demo:** https://akash-portfolio-xi-flame.vercel.app
+Modern responsive portfolio showcasing my projects, achievements, certifications, and technical skills.
+
+🔗 **Live Demo:**  
+**https://akash-portfolio-xi-flame.vercel.app**
 
 ---
 
 # 🏆 Achievements
 
-🥇 First Prize – Smart Obstacle Detection & Alert System for Visually Impaired
+🥇 First Prize — Smart Obstacle Detection & Alert System for Visually Impaired (RMKCET)
 
-🥇 First Prize – Garage Innovators (TWYSTRA'26)
+🥇 First Prize — Garage Innovators, TWYSTRA'26
 
-🥈 Second Prize – ElectraXpo
+🥈 Second Prize — ElectraXpo, Velammal Engineering College
 
-🥈 Second Prize – Mini Project Contest
+🥈 Second Prize — Mini Project Contest, RMKCET
 
-🥉 Third Prize – Science & Innovation
+🥉 Third Prize — Science & Innovation, RMKCET
 
-🥉 Third Prize – FAISCA 2K25-2.0
+🥉 Third Prize — FAISCA 2K25-2.0
 
 🏅 Presented Projects at **Kurukshetra'26, Anna University**
 
@@ -123,9 +149,9 @@ IoT-based smart agriculture solution for monitoring environmental conditions.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rvakash13-abd&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rvakash13-abd&show_icons=true&theme=tokyonight&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvakash13-abd&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvakash13-abd&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -135,7 +161,7 @@ IoT-based smart agriculture solution for monitoring environmental conditions.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rvakash13-abd&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rvakash13-abd&theme=tokyonight"/>
 
 </p>
 
@@ -164,16 +190,16 @@ IoT-based smart agriculture solution for monitoring environmental conditions.
 # 🛠 Currently Working On
 
 - 📱 Android Application Development
-- 🌐 Modern Web Development
+- 🌐 Responsive Web Applications
 - 🤖 AI-powered Applications
 - 🔌 Embedded Systems & IoT Projects
-- 🚀 Building Real-world Products
+- 🚀 Product Development
 
 ---
 
 # 📚 Currently Learning
 
-- Android Development (Advanced)
+- Android Development
 - Machine Learning
 - Large Language Models (LLMs)
 - LangChain
@@ -185,17 +211,17 @@ IoT-based smart agriculture solution for monitoring environmental conditions.
 
 # 🎯 Goals
 
-- 🚀 Build impactful Android & AI applications
+- 🚀 Become a skilled Android Developer
+- 🤖 Build impactful AI & IoT products
 - 🌍 Contribute to Open Source
 - 💼 Secure a Software Development Internship
-- 📱 Master Android Development
-- 🤖 Develop innovative AI & IoT products
+- 📈 Continuously improve my problem-solving skills
 
 ---
 
-# 💭 Favorite Quote
+# 💬 Quote
 
-> **"Innovation begins where curiosity meets execution."**
+> **"Technology becomes meaningful when it solves real-world problems."**
 
 ---
 
@@ -206,5 +232,5 @@ IoT-based smart agriculture solution for monitoring environmental conditions.
 </p>
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider starring my repositories and connecting with me.
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </h3>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0A0E27,25:102A43,60:0F3057,100:00A8CC&text=AKASH%20R%20V&fontSize=65&fontColor=7FDBFF&fontAlignY=40&animation=fadeIn&desc=◈%20Android%20Developer%20◈%20Web%20Developer%20◈%20AI%20%26%20IoT%20Enthusiast%20◈&descAlignY=62&descColor=B8E9FF&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0A0E27,25:102A43,60:0F3057,100:00A8CC&text=AKASH%20R%20V&fontSize=65&fontColor=7FDBFF&fontAlignY=40&animation=fadeIn&desc=%E2%97%88%20Android%20Developer%20%E2%97%88%20Web%20Developer%20%E2%97%88%20AI%20%26%20IoT%20Enthusiast%20%E2%97%88&descAlignY=62&descColor=B8E9FF&descSize=16"/>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=B8E9FF&center=true&vCenter=true&width=850&lines=%5BSYSTEM+ONLINE%5D+Profile+Loaded+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+Electronics+%26+Communication+Engineering;%3E+Android+Dev+%7C+Web+Dev+%7C+IoT+%7C+Embedded+Systems;%3E+MISSION%3A+Turn+Ideas+Into+Working+Products"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=B8E9FF&center=true&vCenter=true&width=850&lines=%5BSYSTEM+ONLINE%5D+Profile+Loaded+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+Electronics+%26+Communication+Engineering;%3E+Android+Dev+%7C+Web+Dev+%7C+IoT+%7C+Embedded+Systems;%3E+MISSION%3A+Turn+Ideas+Into+Working+Products" alt="typing-svg"/>
 
 </div>
 
@@ -75,7 +75,7 @@
 ║    ┌─────────────┬──────────────┬──────────────┬──────────────┐          ║
 ║    │ PROJECTS    │ AWARDS       │ CERTS        │ INTERNSHIPS  │          ║
 ║    ├─────────────┼──────────────┼──────────────┼──────────────┤          ║
-║    │     5+       │      7+      │      2+      │      3+      │         ║
+║    │     5+       │      7+      │      2+      │      1+      │         ║
 ║    └─────────────┴──────────────┴──────────────┴──────────────┘          ║
 ║                                                                          ║
 ║    MISSION  ─── Turn Ideas Into Working Products                         ║

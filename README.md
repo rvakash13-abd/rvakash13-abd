@@ -1,64 +1,324 @@
-<h1 align="center">Hi 👋, I'm Akash R V</h1>
+<div align="center">
 
-<h3 align="center">
-Pre-Final Year Electronics & Communication Engineering Student | Android Developer | Web Developer | AI & IoT Enthusiast
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0A0E27,25:102A43,60:0F3057,100:00A8CC&text=AKASH%20R%20V&fontSize=65&fontColor=7FDBFF&fontAlignY=40&animation=fadeIn&desc=◈%20Android%20Developer%20◈%20Web%20Developer%20◈%20AI%20%26%20IoT%20Enthusiast%20◈&descAlignY=62&descColor=B8E9FF&descSize=16"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Android+Developer;Web+Developer;AI+%26+IoT+Enthusiast;Embedded+Systems+Learner;Always+Learning+New+Technologies" />
-</p>
+</div>
 
----
+<div align="center">
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1500&color=7FDBFF&center=true&vCenter=true&width=750&lines=AKASH+R+V;ANDROID+DEVELOPER;WEB+DEVELOPER;AI+%26+IOT+ENTHUSIAST"/>
 
-- 🎓 Pre-Final Year **B.E. Electronics & Communication Engineering** student at **R.M.K College of Engineering and Technology**
-- 💼 Product Development Intern at **Webnique Digital Solutions**
-- 📱 Passionate about **Android Development** and **Web Development**
-- 🤖 Interested in **Artificial Intelligence, Embedded Systems, and IoT**
-- 🌱 Currently learning **Machine Learning, LLMs, Cloud Computing, and Advanced Android Development**
-- 🚀 I enjoy building real-world products that combine software with embedded systems.
-- 🤝 Open to internships, collaborations, and open-source contributions.
+</div>
 
----
+<div align="center">
 
-## 🌐 Connect With Me
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&pause=1800&color=7FDBFF&center=true&vCenter=true&width=950&lines=Electronics+%26+Communication+Engineering+Student;Pre-Final+Year+%7C+Projects+%7C+Hackathons+%7C+IoT;Android+%7C+Web+%7C+Embedded+Systems;Building+Real-World+Products+That+Bridge+Software+%26+Hardware"/>
 
-<p align="left">
+</div>
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=B8E9FF&center=true&vCenter=true&width=850&lines=%5BSYSTEM+ONLINE%5D+Profile+Loaded+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+Electronics+%26+Communication+Engineering;%3E+Android+Dev+%7C+Web+Dev+%7C+IoT+%7C+Embedded+Systems;%3E+MISSION%3A+Turn+Ideas+Into+Working+Products"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-102A43?style=for-the-badge&logo=linkedin&logoColor=7FDBFF"/>
 </a>
 
-<a href="https://akash-portfolio-xi-flame.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<a href="https://github.com/rvakash13-abd">
+<img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=7FDBFF"/>
+</a>
+
+<a href="https://akash-portfolio-xi-flame.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00A8CC?style=for-the-badge&logo=vercel&logoColor=0A0E27"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-102A43?style=for-the-badge&logo=gmail&logoColor=7FDBFF"/>
 </a>
 
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rvakash13-abd&label=PROFILE+VIEWS&color=00A8CC&style=for-the-badge"/>
+
+</div>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║    ██████╗ ██╗   ██╗                                                    ║
+║    ██╔══██╗██║   ██║                                                    ║
+║    ██████╔╝██║   ██║                                                    ║
+║    ██╔══██╗╚██╗ ██╔╝                                                    ║
+║    ██║  ██║ ╚████╔╝                                                     ║
+║    ╚═╝  ╚═╝  ╚═══╝                                                      ║
+║                                                                          ║
+║    NAME     ─── AKASH R V                                                ║
+║    ROLE     ─── Android · Web Developer · AI & IoT Enthusiast            ║
+║    BASE     ─── RMKCET · B.E. ECE                                        ║
+║    STATUS   ─── Pre-Final Year · Product Dev Intern · Builder            ║
+║                                                                          ║
+║    SPECIALIZE ─── Android Dev · Web Dev · Embedded Systems               ║
+║                  IoT · AI & LLMs                                        ║
+║                                                                          ║
+║    ┌─────────────┬──────────────┬──────────────┬──────────────┐          ║
+║    │ PROJECTS    │ AWARDS       │ CERTS        │ INTERNSHIPS  │          ║
+║    ├─────────────┼──────────────┼──────────────┼──────────────┤          ║
+║    │     5+       │      7+      │      2+      │      1+      │         ║
+║    └─────────────┴──────────────┴──────────────┴──────────────┘          ║
+║                                                                          ║
+║    MISSION  ─── Turn Ideas Into Working Products                         ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+## ◈ `whoami`
+
+<table>
+<tr>
+<td width="78%">
+
+```python
+# ─── akash.profile ─────────────────────────────────────
+
+class AKASH_R_V:
+
+    IDENTITY = {
+        "name"      : "Akash R V",
+        "role"      : "Android Developer | Web Developer | AI & IoT Enthusiast",
+        "college"   : "R.M.K College of Engineering and Technology",
+        "degree"    : "B.E. Electronics & Communication Engineering",
+        "year"      : "Pre-Final Year",
+        "internship": "Product Development Intern @ Webnique Digital Solutions",
+    }
+
+    INTERESTS = [
+        "Android Development",
+        "Web Development",
+        "Artificial Intelligence",
+        "Embedded Systems",
+        "Internet of Things (IoT)"
+    ]
+
+    MISSION = """
+    Build real-world products
+    that combine software
+    with embedded systems,
+    solving problems that matter.
+    """
+
+    CURRENTLY_LEARNING = [
+        "Machine Learning",
+        "Large Language Models (LLMs)",
+        "LangChain",
+        "Cloud Computing (AWS)",
+        "Docker",
+        "Advanced Android Development"
+    ]
+
+    STATUS = "Open to internships, collaborations & open-source contributions"
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 💻 Tech Stack
+## ◈ `cat featured_projects.md`
 
-<p align="center">
+<div align="center">
+
+# 🚀 FEATURED PROJECTS
+
+Building products that bridge software, hardware, and intelligence.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🦽 SMART WHEELCHAIR
+
+**Multilingual Voice-Controlled Smart Wheelchair**
+
+```yaml
+Status : Built
+Stack  : Arduino · Android · Bluetooth
+Focus  : Assistive Technology
+```
+
+* Multilingual voice commands
+* Real-time obstacle detection
+* Android app integration
+* Bluetooth-based control
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 SMART SENTINEL ROBOT
+
+**AI-Powered Autonomous Security Robot**
+
+```yaml
+Status : Built
+Stack  : Arduino · Embedded Systems · IoT
+Focus  : Autonomous Security
+```
+
+* Obstacle avoidance
+* Gas & temperature monitoring
+* Voice interaction
+* Autonomous navigation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 JARVIS AI ASSISTANT
+
+**Desktop AI Assistant Powered by LLMs**
+
+```yaml
+Status : Built
+Stack  : Python · LLMs · Tkinter
+Focus  : Conversational AI & Automation
+```
+
+* Speech recognition
+* Intelligent conversations
+* Task automation
+* LLM-powered responses
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 SMART PLANT MONITOR
+
+**IoT-Enabled Plant Monitoring System**
+
+```yaml
+Status : Built
+Stack  : ESP32 · IoT
+Focus  : Environmental Monitoring
+```
+
+* Real-time condition tracking
+* Sensor-based data collection
+* Remote monitoring
+* Automated alerts
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![View All Projects](https://img.shields.io/badge/VIEW_ALL_PROJECTS-00A8CC?style=for-the-badge\&logo=github\&logoColor=0A0E27)](https://github.com/rvakash13-abd?tab=repositories)
+[![Live Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-102A43?style=for-the-badge\&logo=vercel\&logoColor=7FDBFF)](https://akash-portfolio-xi-flame.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</div>
+
+## ◈ `tail -f achievements.log`
+
+<div align="center">
+
+| 🏆 Awards | 🥇 First Prizes | 🚀 Projects Built | 🏅 Presentations |
+| :-------: | :--------------: | :----------------: | :---------------: |
+|     7+    |         2         |          5+         |          1+        |
+
+</div>
+
+```text
+[1ST PRIZE]  Smart Obstacle Detection & Alert System for Visually Impaired — RMKCET
+[1ST PRIZE]  Garage Innovators, TWYSTRA'26
+[2ND PRIZE]  ElectraXpo, Velammal Engineering College
+[2ND PRIZE]  Mini Project Contest, RMKCET
+[3RD PRIZE]  Science & Innovation, RMKCET
+[3RD PRIZE]  FAISCA 2K25-2.0
+[PRESENTED]  Kurukshetra'26, Anna University
+```
+
+---
+
+## ◈ `cat certifications.db`
+
+<div align="center">
+
+### 🛡️ VERIFIED CERTIFICATIONS
+
+<img src="https://img.shields.io/badge/NPTEL-Internet_of_Things-102A43?style=for-the-badge&logoColor=7FDBFF"/>
+<img src="https://img.shields.io/badge/NPTEL-Sensors_%26_Actuators_(IISc_Bangalore)-102A43?style=for-the-badge&logoColor=7FDBFF"/>
+
+</div>
+
+---
+
+## ◈ Arsenal
+
+<div align="center">
+
+![Android](https://img.shields.io/badge/Android-000?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-000?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge)
+
+</div>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nextjs,nodejs,mongodb,mysql,firebase,git,github,vscode,figma,postman"/>
 
-</p>
+</div>
 
-### 📱 Android
+<br>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📱 Android**
 - Kotlin
 - Android Studio
 - Jetpack Compose
 - MVVM
 
-### 🔌 Embedded & IoT
+</td>
+<td width="50%" valign="top">
 
+**🔌 Embedded & IoT**
 - Arduino
 - ESP32
 - HC-05 Bluetooth
@@ -67,170 +327,81 @@ Pre-Final Year Electronics & Communication Engineering Student | Android Develop
 - Servo Motors
 - Embedded C
 
----
-
-# 🚀 Featured Projects
-
-## 🦽 Multilingual Voice-Controlled Smart Wheelchair
-
-An intelligent wheelchair supporting multilingual voice commands with obstacle detection and Android application integration.
-
-**Tech Stack**
-
-`Arduino` `Android` `Bluetooth` `IoT`
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤖 Smart Sentinel Robot
+## ◈ `git log --stats`
 
-AI-powered autonomous security robot capable of obstacle avoidance, gas detection, temperature monitoring, and voice interaction.
-
-**Tech Stack**
-
-`Arduino` `Embedded Systems` `IoT`
-
----
-
-## 🧠 JARVIS AI Desktop Assistant
-
-Desktop AI assistant with speech recognition, intelligent conversations, and automation features powered by LLMs.
-
-**Tech Stack**
-
-`Python` `LLMs` `Tkinter`
-
----
-
-## 🌱 Smart Plant Monitoring System
-
-IoT-enabled plant monitoring system that tracks environmental conditions in real time.
-
-**Tech Stack**
-
-`ESP32` `IoT`
-
----
-
-## 🌐 Personal Portfolio
-
-Modern responsive portfolio showcasing my projects, achievements, certifications, and technical skills.
-
-🔗 **Live Demo:**  
-**https://akash-portfolio-xi-flame.vercel.app**
-
----
-
-# 🏆 Achievements
-
-🥇 First Prize — Smart Obstacle Detection & Alert System for Visually Impaired (RMKCET)
-
-🥇 First Prize — Garage Innovators, TWYSTRA'26
-
-🥈 Second Prize — ElectraXpo, Velammal Engineering College
-
-🥈 Second Prize — Mini Project Contest, RMKCET
-
-🥉 Third Prize — Science & Innovation, RMKCET
-
-🥉 Third Prize — FAISCA 2K25-2.0
-
-🏅 Presented Projects at **Kurukshetra'26, Anna University**
-
----
-
-# 📜 Certifications
-
-- NPTEL – Internet of Things
-- NPTEL – Sensors & Actuators (IISc Bangalore)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rvakash13-abd&show_icons=true&theme=tokyonight&rank_icon=github"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvakash13-abd&layout=compact&theme=tokyonight"/>
 
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvakash13-abd&theme=tokyonight"/>
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rvakash13-abd&theme=tokyo-night"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
+<br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=rvakash13-abd&theme=tokyonight&no-frame=true&margin-w=10"/>
 
+</div>
+
+---
+
+## ◈ `connect.sh`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════╗
+║ READY FOR NEW OPPORTUNITIES          ║
+╠══════════════════════════════════════╣
+║ ✓ Software Development Internships   ║
+║ ✓ Android & Web Dev Collaborations   ║
+║ ✓ Open Source Contributions          ║
+╚══════════════════════════════════════╝
+```
+
+<br>
+
+<p>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-102A43?style=for-the-badge&logo=linkedin&logoColor=7FDBFF"/>
+</a>
+
+<a href="https://github.com/rvakash13-abd">
+<img src="https://img.shields.io/badge/GITHUB-0A0E27?style=for-the-badge&logo=github&logoColor=7FDBFF"/>
+</a>
+
+<a href="https://akash-portfolio-xi-flame.vercel.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-00A8CC?style=for-the-badge&logo=vercel&logoColor=0A0E27"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-102A43?style=for-the-badge&logo=gmail&logoColor=7FDBFF"/>
+</a>
+
 </p>
 
----
-
-# 🛠 Currently Working On
-
-- 📱 Android Application Development
-- 🌐 Responsive Web Applications
-- 🤖 AI-powered Applications
-- 🔌 Embedded Systems & IoT Projects
-- 🚀 Product Development
+</div>
 
 ---
 
-# 📚 Currently Learning
-
-- Android Development
-- Machine Learning
-- Large Language Models (LLMs)
-- LangChain
-- Embedded Systems
-- Docker
-- AWS
-
----
-
-# 🎯 Goals
-
-- 🚀 Become a skilled Android Developer
-- 🤖 Build impactful AI & IoT products
-- 🌍 Contribute to Open Source
-- 💼 Secure a Software Development Internship
-- 📈 Continuously improve my problem-solving skills
-
----
-
-# 💬 Quote
+<div align="center">
 
 > **"Technology becomes meaningful when it solves real-world problems."**
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:102A43,100:00A8CC&height=140&section=footer"/>
 
-<p align="center">
+### ⚡ Android • Web • IoT • AI • Collaboration
 
-<img src="https://komarev.com/ghpvc/?username=rvakash13-abd&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</h3>
+</div>

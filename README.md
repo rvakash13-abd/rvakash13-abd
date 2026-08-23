@@ -319,13 +319,18 @@ Focus  : Environmental Monitoring
 <td width="50%" valign="top">
 
 **🔌 Embedded & IoT**
-- Arduino
-- ESP32
-- HC-05 Bluetooth
-- Ultrasonic Sensor
-- GSM Module
-- Servo Motors
-- Embedded C
+-Arduino Uno / Mega
+-ESP32
+-HC-05 Bluetooth Module
+-HC-SR04 Ultrasonic Sensor
+-SIM800L GSM Module
+-MPU6050 Accelerometer & Gyroscope
+-MAX30102 Pulse Sensor
+-MQ-2 / MQ-7 / MQ-135 Gas Sensors
+-DHT11 Temperature & Humidity Sensor
+-L298N Motor Driver
+-DFPlayer Mini
+-Embedded C / Arduino Programming
 
 </td>
 </tr>
